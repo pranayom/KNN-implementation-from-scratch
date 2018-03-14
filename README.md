@@ -3,6 +3,8 @@ KNN is a non parametric machine learning algorithm. Fix & Hodges proposed K-near
 Many a times KNN is confused with k-means clustering. The layman way to differentiate between the two:
 
 KNN - Classification - Supervised - Labeled data
+
+
 K-means - Clustering - Unsupervised - Unlabeled data
 
 
