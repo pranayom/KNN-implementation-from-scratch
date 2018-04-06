@@ -13,6 +13,8 @@ Suppose you are a class teacher who got a new student admitted in his/her class.
 A more detailed explanation could be found on this link:
 
 http://dataaspirant.com/2016/12/23/k-nearest-neighbor-classifier-intro/
+https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/
+
 
 
 
